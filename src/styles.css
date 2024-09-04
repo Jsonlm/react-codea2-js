@@ -1,0 +1,24 @@
+* {
+    margin: 0%;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('/assets/fonts/Poppins-Medium.tff') format('tff');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Semibold';
+    src: url('/assets/fonts/Poppins-Semibold.ttf') format('tff');
+    font-weight: semibold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('/assets/fonts/Poppins-Light.tff') format('tff');
+    font-weight: light;
+    font-style: normal;
+}

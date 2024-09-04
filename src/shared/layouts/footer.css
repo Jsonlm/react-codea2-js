@@ -1,0 +1,19 @@
+footer {
+    background-color: #ED2560;
+    color: #fff;
+    display: flex;
+    font-family: Poppins;
+    font-size: smaller;
+    height: 160px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-small {
+    font-size: smaller;
+}
+
+.footer-section {
+    width: 25%;
+    margin: auto;
+}
