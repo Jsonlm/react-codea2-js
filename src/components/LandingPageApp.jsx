@@ -3,14 +3,14 @@ import { Header } from "../shared/layouts/Header";
 import '../shared/components/section-item/section-item.css'
 import '../shared/layouts/header.css'
 import { Footer } from "../shared/layouts/Footer";
+import { Alert } from "../shared/components/alert/Alert";
 export function App() {
     return (
         <>
-            <div>
-                <Header/>
-                <SectionItem/>
-                <Footer></Footer>
-            </div>
+            <Header />
+            <SectionItem />
+            <Footer></Footer>
+            <Alert />
         </>
     );
 }
